@@ -1,0 +1,8 @@
+{
+  "name": "Remix PitchCommand FM",
+  "description": "Simulador de futebol manager em navegador com gestão tática, formações customizadas, mercado de transferências, copas locais, Champions League Beta e motor 2D ao vivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
